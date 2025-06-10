@@ -2,7 +2,7 @@
   "name": "DUMBHEAD",
   "symbol": "DBH",
   "description": "DUMBHEAD is the meme rebellion that went full nerd. Proof-of-humanity, math-based Sybil resistance, zero-admin. For nerds, by nerds. 97% of tokens for verified humans. No whales. No bots. No admin.",
-  "image": "https://github.com/Takashi-Doyle/dumbhead-token/blob/main/logo.png",
+  "image": "https://raw.githubusercontent.com/Takashi-Doyle/dumbhead-token/main/logo.png",
   "decimals": 4,
   "extensions": {
     "website": "https://dumbhead.lol",
