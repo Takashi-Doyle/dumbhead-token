@@ -1,13 +1,6 @@
 {
   "name": "DUMBHEAD",
   "symbol": "DBH",
-  "description": "DUMBHEAD is the meme rebellion that went full nerd. Proof-of-humanity, math-based Sybil resistance, zero-admin. For nerds, by nerds. 97% of tokens for verified humans. No whales. No bots. No admin.",
-  "image": "https://raw.githubusercontent.com/Takashi-Doyle/dumbhead-token/main/logo.png",
-  "attributes": [
-    { "trait_type": "Category", "value": "Meme/Game" },
-    { "trait_type": "Sybil Resistant", "value": "Yes" },
-    { "trait_type": "Max Supply", "value": "1,000,000,000" },
-    { "trait_type": "Decimals", "value": "4" },
-    { "trait_type": "Protocol", "value": "Token-2022" }
-  ]
+  "description": "DUMBHEAD is the meme rebellion that went full nerd. Proof-of-humanity, math-based Sybil resistance, zero-admin.",
+  "image": "https://raw.githubusercontent.com/Takashi-Doyle/dumbhead-token/main/logo.png"
 }
