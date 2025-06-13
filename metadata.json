@@ -1,25 +1,48 @@
 {
   "name": "DUMBHEAD",
   "symbol": "DBH",
-  "description": "DUMBHEAD is the meme rebellion that went full nerd. Proof-of-humanity, math-based Sybil resistance, zero-admin. 97% of tokens for verified humans. No whales. No bots. No admin. Pure code, pure community.",
+  "description": "DUMBHEAD is the meme rebellion that went full nerd. A 1 B-supply, Sybil-resistant, zero-admin Token-2022 experiment: 97 % of supply is distributed to verified humans via an on-chain Merkle airdrop. No whales. No bots. Pure code, pure community.",
   "image": "https://raw.githubusercontent.com/Takashi-Doyle/dumbhead-token/main/logo.png",
   "external_url": "https://dumbhead.lol",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "DUMBHEAD",
+    "family": "Token-2022 Memes"
+  },
   "attributes": [
-    { "trait_type": "Category", "value": "Meme/Game" },
+    { "trait_type": "Category",        "value": "Meme/Game" },
     { "trait_type": "Sybil Resistant", "value": "Yes" },
-    { "trait_type": "Protocol", "value": "Token-2022" },
-    { "trait_type": "Max Supply", "value": "1,000,000,000" },
-    { "trait_type": "Decimals", "value": "4" }
+    { "trait_type": "Protocol",        "value": "Token-2022" },
+    { "trait_type": "Max Supply",      "value": "1 000 000 000" },
+    { "trait_type": "Decimals",        "value": "4" },
+    { "trait_type": "Airdrop Share",   "value": "97 %" },
+    { "trait_type": "Launch Year",     "value": "2025" }
   ],
   "properties": {
-    "creators": [
-      { "address": "4PAQw2sAE3JwuH7mGWqqJKeWzDKNGaVmhcUSJWReQjzk", "share": 100 }
-    ],
+    "category": "image",
     "files": [
       {
         "uri": "https://raw.githubusercontent.com/Takashi-Doyle/dumbhead-token/main/logo.png",
         "type": "image/png"
       }
+    ],
+    "creators": [
+      {
+        "address": "CGcVx4giJ1QTgaXjq8jB8zc5pSae93dw1g6UE7UsjaAN",
+        "share": 100
+      }
     ]
+  },
+  "extensions": {
+    "developer":   "Arthimium Lab – https://www.arthimium.com/",
+    "email":       "info@arthimium.com",
+    "whitepaper":  "https://www.dumbhead.lol/whitepaper",
+    "twitter":     "https://x.com/DumbHead_lol",
+    "telegram": {
+      "official":   "https://t.me/dumbheadofficial",
+      "community":  "https://t.me/dumbhead_community"
+    },
+    "game":        "https://game.dumbhead.lol/",
+    "license":     "CC0"
   }
 }
